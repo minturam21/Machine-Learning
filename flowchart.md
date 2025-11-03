@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
   A[Start: Define Problem] --> B[Collect Data]
   B --> C[Explore & Visualize]
